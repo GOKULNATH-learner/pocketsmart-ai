@@ -111,7 +111,7 @@ SECRET_KEY=pocketsmart_ai_super_secret_jwt_key_2026
 ```bash
 python run.py
 ```
-Open your browser and navigate to **`http://127.0.0.1:8000`**.
+Open your browser and navigate to https://pocketsmart-ai.onrender.com
 
 ---
 
