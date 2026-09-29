@@ -1,0 +1,29 @@
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environments & IDE
+.env
+.venv
+venv/
+ENV/
+.idea/
+.vscode/
+
+# Database & SQLite files
+*.db
+*.sqlite
+*.sqlite3
+pocketsmart.db
+
+# File Uploads
+static/uploads/*
+!static/uploads/.gitkeep
+
+# Operating System & Logs
+.DS_Store
+Thumbs.db
+*.log
